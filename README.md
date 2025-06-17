@@ -6,7 +6,7 @@
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/6f4d9207-cf31-4d4b-aec3-0dd87077b01e
 
 ## Clock Module Views
 
