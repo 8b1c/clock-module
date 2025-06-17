@@ -13,13 +13,11 @@
 ### Front View
 
 <p align="center">
-    <img src=".github/imgs/clock-module-front.png" width="500" />
+    <img src=".github/imgs/clock-module-front.png" />
 </p>
 
 ### Back View
 
 <p align="center">
-    <img src=".github/imgs/clock-module-back.png" width="500" />
+    <img src=".github/imgs/clock-module-back.png" />
 </p>
-
-
